@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\bin\Debug\net6.0\12.ClassObject.exe
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\bin\Debug\net6.0\12.ClassObject.deps.json
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\bin\Debug\net6.0\12.ClassObject.runtimeconfig.json
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\bin\Debug\net6.0\12.ClassObject.dll
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\bin\Debug\net6.0\12.ClassObject.pdb
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\obj\Debug\net6.0\12.ClassObject.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\obj\Debug\net6.0\12.ClassObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\obj\Debug\net6.0\12.ClassObject.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\obj\Debug\net6.0\12.ClassObject.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\obj\Debug\net6.0\12.ClassObject.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\obj\Debug\net6.0\12.ClassObject.dll
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\obj\Debug\net6.0\refint\12.ClassObject.dll
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\obj\Debug\net6.0\12.ClassObject.pdb
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\obj\Debug\net6.0\12.ClassObject.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson20.Operators\12.ClassObject\obj\Debug\net6.0\ref\12.ClassObject.dll

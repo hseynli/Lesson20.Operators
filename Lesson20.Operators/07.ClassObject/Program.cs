@@ -1,0 +1,11 @@
+﻿Object obj1 = new Object();
+Object obj2 = new Object();
+
+Console.WriteLine(Equals(obj1, obj2));
+
+obj1 = obj2;
+
+Console.WriteLine(Equals(obj1, obj2));
+
+// Delay.
+Console.ReadKey();

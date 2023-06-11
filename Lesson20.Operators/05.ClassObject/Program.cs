@@ -1,0 +1,35 @@
+﻿Point a = new Point(1, 2);
+Point b = new Point(1, 2);
+Point c = new Point(0, 0);
+
+Console.WriteLine("a == b : {0}", a.Equals(b));
+Console.WriteLine("a == c : {0}", a.Equals(c));
+
+// Delay.
+Console.ReadKey();
+
+
+class Point : object
+{
+    protected int x, y;
+
+    public Point(int xValue, int yValue)
+    {
+        x = xValue;
+        y = yValue;
+    }
+
+    public override bool Equals(Object obj)
+    {
+        if (obj == null || this.GetType() != obj.GetType())
+            return false;
+
+        Point p = (Point)obj;
+        return (x == p.x) && (y == p.y);
+    }
+
+    public override int GetHashCode()
+    {
+        return x * y;
+    }
+}
