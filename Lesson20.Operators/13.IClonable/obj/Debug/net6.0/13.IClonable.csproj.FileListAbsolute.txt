@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\bin\Debug\net6.0\13.IClonable.exe
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\bin\Debug\net6.0\13.IClonable.deps.json
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\bin\Debug\net6.0\13.IClonable.runtimeconfig.json
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\bin\Debug\net6.0\13.IClonable.dll
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\bin\Debug\net6.0\13.IClonable.pdb
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\obj\Debug\net6.0\13.IClonable.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\obj\Debug\net6.0\13.IClonable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\obj\Debug\net6.0\13.IClonable.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\obj\Debug\net6.0\13.IClonable.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\obj\Debug\net6.0\13.IClonable.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\obj\Debug\net6.0\13.IClonable.dll
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\obj\Debug\net6.0\refint\13.IClonable.dll
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\obj\Debug\net6.0\13.IClonable.pdb
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\obj\Debug\net6.0\13.IClonable.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson20.Operators\Lesson20.Operators\13.IClonable\obj\Debug\net6.0\ref\13.IClonable.dll
